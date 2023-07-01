@@ -6,7 +6,7 @@ import Projects from "./pages/projects";
 import Contact from "./pages/contact";
 
 import "bootstrap/dist/css/bootstrap.min.css";
-import { BrowserRouter as Router, Route, Routes, Link } from "react-router-dom";
+import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 const App = () => (
   <Router>
     <Routes>

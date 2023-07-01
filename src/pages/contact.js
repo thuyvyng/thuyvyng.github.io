@@ -1,5 +1,4 @@
 import { Card, Col, Container, Row } from "react-bootstrap";
-import Resume from "./resume_thuyvynguyen.pdf";
 import Navigation from "../components/navbar";
 
 export default function Contact() {

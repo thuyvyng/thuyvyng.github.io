@@ -1,7 +1,6 @@
-import { Card, CardGroup, Col, Container, Row } from "react-bootstrap";
+import { Card, Col, Container, Row } from "react-bootstrap";
 import Navigation from "../components/navbar";
 
-import Me from "../photos/prof.jpeg";
 export default function Experience() {
   return (
     <>
